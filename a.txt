@@ -1,5 +1,9 @@
 kwkw english
+<<<<<<< HEAD
  
 q sl
  
 I changed by tanglr 
+=======
+I changed by tanglr
+>>>>>>> 017468ec1b273e4e6203343ba8be05d53fe02b9d
